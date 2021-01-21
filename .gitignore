@@ -2,9 +2,7 @@ node_modules
 public
 src
 CHANGELOG.md
-debug.log
 gulpfile.js
 ISSUE_TEMPLATE.md
 jsconfig.json
 LICENSE.md
-tailwind.config.js
